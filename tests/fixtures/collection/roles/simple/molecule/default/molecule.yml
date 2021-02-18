@@ -1,5 +1,5 @@
 driver:
-  name: podman
+  name: containers
 platforms:
   - name: simple
     image: fedora:latest
